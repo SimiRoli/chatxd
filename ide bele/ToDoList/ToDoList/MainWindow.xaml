@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button Name="btnHozzaad" Content="Hozzáad" HorizontalAlignment="Left" Height="42" Margin="643,58,0,0" VerticalAlignment="Top" Width="131"/>
+        <Button Name="btnMentes" Content="Mentés" HorizontalAlignment="Left" Height="43" Margin="643,124,0,0" VerticalAlignment="Top" Width="131"/>
+        <Button Name="btnBetolt" Content="Betöltés" HorizontalAlignment="Left" Height="43" Margin="643,191,0,0" VerticalAlignment="Top" Width="131"/>
+        <Button Name="btnTorles" Content="Törlés" HorizontalAlignment="Left" Height="43" Margin="643,336,0,0" VerticalAlignment="Top" Width="131"/>
+        <ListBox Name="lblTeendo" HorizontalAlignment="Left" Height="280" Margin="10,10,0,0" VerticalAlignment="Top" Width="241" d:ItemsSource="{d:SampleData ItemCount=99}"/>
+        <TextBox Name="tbHozzaad" HorizontalAlignment="Left" Height="38" Margin="278,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="321"/>
 
     </Grid>
 </Window>
