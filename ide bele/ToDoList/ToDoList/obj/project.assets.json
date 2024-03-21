@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\KocsisBalazsTamas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\obj\\",
+      "outputPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KocsisBalazsTamas\\AppData\\Roaming\\NuGet\\NuGet.Config",

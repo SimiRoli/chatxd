@@ -51,7 +51,7 @@ namespace ToDoList
                 if (lblTeendo.SelectedIndex != -1)
                 {
                     todoList.RemoveAt(lblTeendo.SelectedIndex);
-                    RefreshTodoListBox();
+                    RefreshTodoListBox();....
                 }
             }
 
