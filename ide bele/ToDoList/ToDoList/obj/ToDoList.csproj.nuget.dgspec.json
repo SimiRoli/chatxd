@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\ToDoList.csproj",
-        "packagesPath": "C:\\Users\\KocsisBalazsTamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\12.d\\KA_12D.github.io\\Kocsis Balázs Tamás\\c#\\todolist\\ToDoList\\ToDoList\\obj\\",
+        "projectPath": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "packagesPath": "C:\\Users\\SimonRoland\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KocsisBalazsTamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SimonRoland\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
