@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\SimonRoland\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\obj\\",
+=======
+    "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectName": "ToDoList",
+        "projectPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "packagesPath": "C:\\Users\\KocsisBalazsTamas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\obj\\",
+>>>>>>> 1785821bcab15208686433c0b044534dd7384ec0
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SimonRoland\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\ToDoList\ToDoList\obj\Debug\net6.0-windows\
+=======
+C:\Users\KocsisBalazsTamas\Desktop\todo\chatxd\ide bele\ToDoList\ToDoList\obj\Debug\net6.0-windows\
+>>>>>>> 1785821bcab15208686433c0b044534dd7384ec0
 ToDoList
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
 C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\ToDoList\ToDoList\App.xaml
+=======
+C:\Users\KocsisBalazsTamas\Desktop\todo\chatxd\ide bele\ToDoList\ToDoList\App.xaml
+>>>>>>> 1785821bcab15208686433c0b044534dd7384ec0
 11407045341
 
 848740461

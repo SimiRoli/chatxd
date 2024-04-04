@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vG60wSRwUDvzQZfla01A2piGPhMQKlqAHi3ND3TsKlNCS+d6FT+JayPplnkw2+eTOW70GxJwAzAomTrGeH1l6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
+=======
+  "dgSpecHash": "6tD3h6o8rIpDEcELj6ahyiPDdU27Ob+GpaYqXmNxhUmuwQ7zzHSykYXXO3uEZJrO8C6gLds8LdDJGGZttB09Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KocsisBalazsTamas\\Desktop\\todo\\chatxd\\ide bele\\ToDoList\\ToDoList\\ToDoList.csproj",
+>>>>>>> 1785821bcab15208686433c0b044534dd7384ec0
   "expectedPackageFiles": [],
   "logs": []
 }
