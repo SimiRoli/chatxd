@@ -18,3 +18,23 @@ C:\Users\SimonRoland\Desktop\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windo
 C:\Users\SimonRoland\Desktop\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.pdb
 C:\Users\SimonRoland\Desktop\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.genruntimeconfig.cache
 C:\Users\SimonRoland\Desktop\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\ref\csinald.dll
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\bin\Debug\net6.0-windows\csinald.exe
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\bin\Debug\net6.0-windows\csinald.deps.json
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\bin\Debug\net6.0-windows\csinald.runtimeconfig.json
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\bin\Debug\net6.0-windows\csinald.dll
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\bin\Debug\net6.0-windows\csinald.pdb
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald_MarkupCompile.cache
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald_MarkupCompile.lref
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.g.resources
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.AssemblyInfoInputs.cache
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.AssemblyInfo.cs
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.dll
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\refint\csinald.dll
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.pdb
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\csinald.genruntimeconfig.cache
+C:\Users\SimonRoland\Desktop\asd\chatxd\ide bele\aha\szuleszorvos\csinald\csinald\obj\Debug\net6.0-windows\ref\csinald.dll

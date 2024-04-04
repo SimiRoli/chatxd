@@ -7,18 +7,22 @@
         mc:Ignorable="d"
         Title="ToDo List" Height="350" Width="500">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="447*"/>
+            <ColumnDefinition Width="53*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <TextBox x:Name="todoTextBox" Grid.Row="0" Margin="10" />
-        <ListBox x:Name="todoListBox" Grid.Row="1" Margin="10"/>
-        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
-        <Button Content="Add" Click="AddTodoButton_Click" Margin="5"/>
-        <Button Content="Delete" Click="DeleteTodoButton_Click" Margin="5"/>
-        <Button Content="Save" Click="SaveButton_Click" Margin="5"/>
-        <Button Content="Load" Click="LoadButton_Click" Margin="5"/>
+        <TextBox x:Name="todoTextBox" Grid.Row="0" Margin="10,10,10,10" Grid.ColumnSpan="2" />
+        <ListBox x:Name="todoListBox" Grid.Row="1" Margin="10,10,10,10" Grid.ColumnSpan="2"/>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Left" Margin="169,10,0,10">
+            <Button Content="Add" Click="AddTodoButton_Click" Margin="5"/>
+            <Button Content="Delete" Click="DeleteTodoButton_Click" Margin="5"/>
+            <Button Content="Save" Click="SaveButton_Click" Margin="5"/>
+            <Button Content="Load" Click="LoadButton_Click" Margin="5"/>
         </StackPanel>
     </Grid>
 </Window>

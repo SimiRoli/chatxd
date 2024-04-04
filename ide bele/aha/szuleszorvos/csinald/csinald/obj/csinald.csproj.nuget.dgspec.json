@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SimonRoland\\Desktop\\szuleszorvos\\csinald\\csinald\\csinald.csproj": {}
+    "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\aha\\szuleszorvos\\csinald\\csinald\\csinald.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SimonRoland\\Desktop\\szuleszorvos\\csinald\\csinald\\csinald.csproj": {
+    "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\aha\\szuleszorvos\\csinald\\csinald\\csinald.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SimonRoland\\Desktop\\szuleszorvos\\csinald\\csinald\\csinald.csproj",
+        "projectUniqueName": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\aha\\szuleszorvos\\csinald\\csinald\\csinald.csproj",
         "projectName": "csinald",
-        "projectPath": "C:\\Users\\SimonRoland\\Desktop\\szuleszorvos\\csinald\\csinald\\csinald.csproj",
+        "projectPath": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\aha\\szuleszorvos\\csinald\\csinald\\csinald.csproj",
         "packagesPath": "C:\\Users\\SimonRoland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SimonRoland\\Desktop\\szuleszorvos\\csinald\\csinald\\obj\\",
+        "outputPath": "C:\\Users\\SimonRoland\\Desktop\\asd\\chatxd\\ide bele\\aha\\szuleszorvos\\csinald\\csinald\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SimonRoland\\AppData\\Roaming\\NuGet\\NuGet.Config",
